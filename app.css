@@ -140,7 +140,7 @@ body {
   color: white;
 }
 
-
+/* Media queries for responsiveness  */
 @media (min-width: 900px){
   .panel {
     flex-direction: row;
